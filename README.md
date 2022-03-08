@@ -1,4 +1,4 @@
-# Log Injection with Spring Boot and Logback
+# Log Injection with Spring Boot and Log4J2
 
 ## Usage
 
